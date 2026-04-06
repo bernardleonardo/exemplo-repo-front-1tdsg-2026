@@ -1,0 +1,17 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    font-size: 16px;
+}
+
+header {
+    background-color: #a83232;
+    margin: 0 auto;
+    width: 70%;
+}
+nav{
+ margin: 0 auto;
+ width: 70%;
+}
+
+
